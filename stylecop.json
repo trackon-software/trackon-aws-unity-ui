@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "documentationRules": {
+      "companyName": "Your Company Name",
+      "documentExposedElements": true,
+      "documentInternalElements": false
+    }
+  }
+}
