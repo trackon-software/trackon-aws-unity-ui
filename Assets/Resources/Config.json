@@ -1,0 +1,6 @@
+{
+    "UserPoolId": "us-east-1_XFNtnsOMZ",
+    "ClientId": "1tppnq4p9neh96e593q73k40eq",
+    "Region": "us-east-1",
+    "AppSyncUrl": "https://xpt6nss2hbcvtcofbo6zkxk4rm.appsync-api.us-east-1.amazonaws.com/graphql"
+}
